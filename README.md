@@ -1,7 +1,7 @@
 ```c
-NAME : PARANTHAMAN S
+NAME   : PARANTHAMAN S
 REG-NO : 212224040232
-DATE : 05-05-25
+DATE   : 
 ```
 #  EXP-1 : Mean and variance of a discrete  distribution 
 # Aim : 
